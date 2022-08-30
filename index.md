@@ -1,35 +1,15 @@
-## Welcome to pekmas1 Pages
+# about me
+สวัสดีครับ ชื่อคิวเป็นนักเรียนครับ ตอนนี้กำลังเรียนไพธอนอยู่ครับ ที่ผมชอบไพธอนเพราะว่าเห็นคนอื่นสร้างเว็บ/แอพแล้วขัดใจครับ
 
-My nickname is eq. I love programming. I can write Python JUST PYTHON.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pekmas1/pekmas1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# now doing
+* เรียน Recommender System จาก [Playlist](https://youtube.com/playlist?list=PL3ZVX5cUMdLbiFgitZszhnMUZHDDEL0rS)
+* อ่านหนังสือเล่มนี้ครับ [click](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=zg_sccl_2/138-9206923-1481351?pd_rd_w=tHhhj&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=NVNBHNY40Q9J67KAPEE8&pd_rd_wg=OputW&pd_rd_r=21ea1561-20be-4ff0-93ae-4fea2781cb5b&pd_rd_i=0735211299&psc=1)
+* ออกกำลังกายตามคลิปนี้ครับ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_LyzqyuJP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Anime ที่ชอบ
+## Tonikaku Kawaii
+![image](/assets/images/index/tonikaku%20kawaii.webp)
+## rent a girlfreind
+![image](/assets/images/index/rent%20a%20girlfreind.png)
+## Toubun no Hanayome
+![image](/assets/images/index/%E0%B9%81%E0%B8%9D%E0%B8%945.webp)
