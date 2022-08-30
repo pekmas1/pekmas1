@@ -6,6 +6,7 @@
 * อ่านหนังสือเล่มนี้ครับ [click](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=zg_sccl_2/138-9206923-1481351?pd_rd_w=tHhhj&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=NVNBHNY40Q9J67KAPEE8&pd_rd_wg=OputW&pd_rd_r=21ea1561-20be-4ff0-93ae-4fea2781cb5b&pd_rd_i=0735211299&psc=1)
 * ออกกำลังกายตามคลิปนี้ครับ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_LyzqyuJP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Anime ที่ชอบ
 ## Tonikaku Kawaii
 ![image](/assets/images/index/tonikaku%20kawaii.webp)
