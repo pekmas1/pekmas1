@@ -13,4 +13,4 @@
 ## rent a girlfreind
 ![image](/assets/images/index/rent%20a%20girlfreind.png)
 ## Toubun no Hanayome
-![image](/assets/images/index/%E0%B9%81%E0%B8%9D%E0%B8%945.webp)
+![image](/assets/images/index/ok.jpg)
