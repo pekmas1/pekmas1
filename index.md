@@ -14,3 +14,13 @@
 ![image](/assets/images/index/rent%20a%20girlfreind.png)
 ## Toubun no Hanayome
 ![image](/assets/images/index/ok.jpg)
+
+# มาคุยกับผมได้ที่
+* [Facebook](https://www.facebook.com/achitaphon.pratanvanich)
+
+# My blog
+<ul>
+    {% for post in site.posts %}
+    <li> <h2> <a href="{{post.url}}"> {{page.title}} </a> </h2> {{post.excerpt}} </li>
+    {% endfor %}
+</ul>
